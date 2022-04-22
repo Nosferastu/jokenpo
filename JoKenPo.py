@@ -68,3 +68,4 @@ elif score > cscore:
 else:
     print('O humano deu sorte e empatou então...')
 print('-=' * 10)
+input('Clique qualquer coisa para fechar o terminal')
